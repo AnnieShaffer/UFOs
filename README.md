@@ -14,7 +14,7 @@ The webpage is incredibly easy to use and filter through.
 
 3. Once complete, the table will show the date, city, state, country, shape, the amount of time the sighting took place, and a decription of the sighting
 
-![White_Oak_Search](https://github.com/AnnieShaffer/UFOs/blob/master/Images/Mainpage.png)
+![White_Oak_Search](https://github.com/AnnieShaffer/UFOs/blob/master/Images/White_Oak_Search.png)
 
 ## Summary
 - One potential drawback of this design is that it does not give a range of the data for the user to know what to look through. This means that in order for the user to filter the data, they must have an idea of what all of the data looks like. This could be time consuming and take away the effciency of the filter function.
